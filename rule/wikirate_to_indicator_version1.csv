@@ -1,0 +1,64 @@
+,index,indicator,metric_name,need_a1
+0,A.1.1.,Revenue, , 
+1,A.1.2.,Value added, , 
+2,A.1.3.,Net value added, , 
+3,A.2.1.,Taxes and other payments to the Government,US Securities & Exchange Comission+Income Taxes Paid Net,N
+4,A.3.1., Green investment,brenda amezquita licea+Environmental Investment,N
+5,A.3.2.,Community investment, , 
+6,A.3.3.,Total expenditures on Research and Development,US Securities & Exchange Comission+Research and Development Expense,N
+7,A.4.1.,Percentage of local procurement, , 
+8,B.1.1.,Water recycling and reuse,Global Reporting Initiative+Water Recycled (%) (G4-EN10-b),N
+9,B.1.2.,Water use efficiency,Commons+Water Use,Y
+9,B.1.2.,Water use efficiency,Higher Education Statistics Agency (HESA)+Total water consumption (m3),Y
+9,B.1.2.,Water use efficiency,Jessica Corona+water consumption,Y
+9,B.1.2.,Water use efficiency,Luis David Quintero+Water Consumption,Y
+9,B.1.2.,Water use efficiency,Mateo Fernandez Londo??o+Amount of consumed water,Y
+9,B.1.2.,Water use efficiency,WikiRate_SDG_Metric_design+Water use per $ Profit,N
+10,B.1.3.,Water stress,Global Reporting Initiative+Ground Water Withdrawals (G4-EN8-a),N
+10,B.1.3.,Water stress,Global Reporting Initiative+Surface Water Withdrawals (G4-EN8-a),N
+11,B.2.1.,Reduction of waste generation, , 
+12,B.2.2.,"Waste reused, re-manufactured and recycled",Higher Education Statistics Agency (HESA)+Total waste mass used to create energy (tonnes),N
+12,B.2.2.,"Waste reused, re-manufactured and recycled",brenda amezquita licea+Recycled waste,N
+12,B.2.2.,"Waste reused, re-manufactured and recycled",Global Reporting Initiative+Hazardous waste recycled (G4-EN23-a),N
+12,B.2.2.,"Waste reused, re-manufactured and recycled",Global Reporting Initiative+Non-Hazardous Waste Recycled (G4-EN23-a),N
+12,B.2.2.,"Waste reused, re-manufactured and recycled",Jessica Corona+Recycled waste,N
+13,B.2.3.,Hazardous waste,Global Reporting Initiative+Hazardous Waste Created (G4-EN23-a),N
+13,B.2.3.,Hazardous waste,Global Reporting Initiative+Hazardous Waste Handled (G4-EN25-a),N
+13,B.2.3.,Hazardous waste,Global Reporting Initiative+Hazardous waste recycled (G4-EN23-a),N
+13,B.2.3.,Hazardous waste,Global Reporting Initiative+Hazardous Waste Shipped Internationally (G4-EN25-b),N
+13,B.2.3.,Hazardous waste,WikiRate_SDG_Metric_design+Percentage hazardous waste recycled,N
+14,B.3.1.,Greenhouse gas emissions (scope 1),Commons+Greenhouse Gas Emissions Scope 1,N
+14,B.3.1.,Greenhouse gas emissions (scope 1),Global Reporting Initiative+Direct greenhouse gas (GHG) emissions (Scope 1) (G4-EN15-a),N
+15,B.3.2.,Greenhouse gas emissions (scopes 2),Commons+Greenhouse Gas Emissions Scope 2,N
+15,B.3.2.,Greenhouse gas emissions (scopes 2),Global Reporting Initiative+Indirect greenhouse gas (GHG) emissions (Scope 2) (G4-EN16-a),N
+16,B.5.1.,Renewable energy,John Callewaert+HESA: Total Percentage of Renewable Energy,N
+16,B.5.1.,Renewable energy,Richard Mills+Renewable Energy (%),N
+17,B.5.2.,Energy efficiency,Agathe Parois+Annual energy consumption,Y
+17,B.5.2.,Energy efficiency,brenda amezquita licea+Energy Consumption,Y
+17,B.5.2.,Energy efficiency,Commons+Energy Consumption,Y
+17,B.5.2.,Energy efficiency,Higher Education Statistics Agency (HESA)+Total energy consumption (kWh),Y
+17,B.5.2.,Energy efficiency,Kelly Ramirez+Energy consumption,Y
+17,B.5.2.,Energy efficiency,Sara Echeverri Quintero+Energy Consumption,Y
+17,B.5.2.,Energy efficiency,"Sustainability Tracking, Assessment & Rating System (STARS)+Total Energy Consumption (MMBtu) - Performance Year",Y
+17,B.5.2.,Energy efficiency,WikiRate Calculated Metric Design Group+Energy consumption per dollar profit,N
+18,C.1.1.,Proportion of women in managerial positions, , 
+19,C.2.1.,Average hours of training per year per employee,Global Reporting Initiative+Average hours of training (female) (G4-LA9-a),N
+19,C.2.1.,Average hours of training per year per employee,Global Reporting Initiative+Average hours of training (male) (G4-LA9-a),N
+19,C.2.1.,Average hours of training per year per employee,Global Reporting Initiative+Average hours of training (G4-LA9-a),N
+19,C.2.1.,Average hours of training per year per employee,Madina Ba+Numbers of hours of training per employee,N
+20,C.2.2.,Expenditure on employee training per year per employee,Elizabeth Potter+Average Cost per Employee on Training,N
+21,C.2.3.,Employee wages and benefits with breakdown by employmenttype and gender, , 
+22,C.3.1.,Expenditures on employee health and safety, , 
+23,C.3.2.,Frequency rates/incident rates of occupational injuries or,Global Reporting Initiative+Injury rates (G4-LA6-a),N
+24,C.4.1.,Percentage of employees covered by collective agreements,Global Reporting Initiative+Collective bargaining (G4-11),N
+25,D.1.1.,Number of board meetings and attendance rate, , 
+26,D.1.2.,Number/percentage of female board members,2020WoB+Women on Board,N
+26,D.1.2.,Number/percentage of female board members,2020WoB+Women on Board+Elizabeth Potter,N
+26,D.1.2.,Number/percentage of female board members,Lu Han+Women in executive committees,N
+26,D.1.2.,Number/percentage of female board members,India Responsible Business Forum+Women Representation in Board of Directors,N
+26,D.1.2.,Number/percentage of female board members,Agathe Parois+percentage of women within the board of director,N
+27,D.1.3.,Board members by age range, , 
+28,D.1.4.,Number of meetings of audit committee and attendance rate, , 
+29,D.1.5.,Compensation: total and compensation per board member andexecutive, , 
+30,D.2.1.,Amount of fines paid or payable due to convictions, , 
+31,D.2.2.,"Average number of hours of training on anti-corruption issues,per year per employee", , 

@@ -1,0 +1,32 @@
+A.2.1. (?<!pre-)tax 
+A.3.1. environment expenditure,investment,cost,pay,paid
+A.3.2. community,charit,donation,fund,foundation investment,expenditure,investment,cost,pay,paid
+A.3.3. research development
+A.3.3. r\&d
+A.4.1. local procurement,purchasing,purchase
+B.1.1. water reuse,recycle
+B.1.2. water use,usage,consumption,consume,efficiency
+B.1.3. water withdrawal surface,ground,rainwater,waste,rain
+B.2.1. waste generate,generation,create,production,creation,produce change,reduc,decreas,down,low
+B.2.2. waste reuse,recycle,remanufacture
+B.2.3. waste hazard generate,generation,create,production,creation,produce treat,handle,recycle,ship,export,transport,compost,recover,incinerat,inject,landfill,storage
+B.3.1. greenhouse,co2 direct,scope\s*1\s
+B.3.2. greenhouse,co2 indirect,scope\s*2\s
+B.4.1. ozone deplet substance,chemical
+B.4.1. \sods\s
+B.5.1. energy renewable
+B.5.2. energy use,usage,consumption,consume,efficiency
+C.1.1. women,woman,lady,ladies,female manage,lead,executive
+C.2.1. train hour,time employ
+C.2.2. train expenditure,investment,cost,pay,paid employ
+C.2.3. employee,employment,workforce expenditure,investment,cost,pay,paid,wage,salary,salaries,income
+C.3.1. employee,employment,workforce health,safe,insurance expenditure,investment,cost,pay,paid employ
+C.3.2. injury,injuries,incident frequency,rate
+C.4.1. collective agreement,bargain
+D.1.1. board meeting,attendance,participate,involve,join,envolve
+D.1.2. board women,woman,lady,ladies,female
+D.1.3. board age
+D.1.4. audit meeting,attendance,participate,involve,join,envolve
+D.1.5. board,executive expenditure,cost,pay,paid,wage,salary,salaries,income
+D.2.1. corrupt fine,punishment,penalty
+D.2.2. corrupt train hour,time employ

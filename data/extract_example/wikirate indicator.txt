@@ -1,0 +1,35 @@
+A1 materiality,assessment financial,finance,information,climate,risk
+A2 sustainability use,energy,water,carbon,dioxide,co2,ozone,ods,emission,waste,consumption,generation,reuse,re-manufacture,recycle,renewable,gender,equality,community,development
+A3 management,materialiy,topics board,meeting,attendance,percentage,female,gender,diversity,age,range,disabiliy,national,audit,committee,compensation,salary
+A4 governance,structure,economic,enironmental,social
+A5 impacts,risks,opportunities
+A6 anti-fraud,anti-corruption,anti-competitive,behaviour,practice bribe,fines,settlement,bribery,facilitation,payment,fraud,extortion,collusion,laudering,inducement,dishonest,illegal,embezzlement,abuse,illicit,concealment,obstruct,misallocation,training
+A7 stakeholder,engagement,sustainability,performance
+B1 economic,performance,revenue,net,profit,value,added,payouts revenue,net,value,growth,product,entity,co2,emission,addition,added,create,
+B2 indirect,economic,performance,community,investment,infrasructure,local,impact tax,taxes,income,profit,capital,payroll,workforce,property,goods,services,trade,transaction,penality,royality,liscense,green,investment,energy,efficiency,infrastructure,technology,sustainable,prevention,reduction,elimination,community,infrastructure,main,business,expenditure,research,development,new,science,technology,knowledge
+B3 sustainable,public,procurement,policies,practices
+B4 research,development
+B5 supply,chain
+C1 energy,consumption,efficiency,renewable,sources renewable,hydro,solid,biofuels,wind,solar,liquid,biofuels,biogas,geothermal,marine,waste,solar,energy,biomass,hydropower,geothermal,energy,ocean,economic,output,GDP
+C2 water,consumption,wastewater,generation,integrated,management,practices,recycle,reuse,efficiency water,use,efficiency,withdrawn,return,flow,net,value,freshwater,renewable,requirement,withdrawal
+C3 water,intensity,integrated,resources,management sustainable,use,generation,safe,reuse,recycle
+C4 greenhouse,gas,emmissions co2,emmision,stationary,combustion,mobile,process,fugitive,ghg,electricity,heat,steam,secondary,indirect
+C5 emission,effluent,ozone,depleting,substances,nitrogen,oxides,nox,sulphur,oxides,sox,chemicals ods,chlorine,bromine
+C6 waste,generation,hazardous
+C7 waste,minimisation,recycle,pracices reduce,prevention,reduction,recycle,reuse,generator,generation,remanufacture,clean,repair,refurbish,recovery,
+C8 supplie, environmental,assessment
+C9 material,consumption,reclaimed,recycled
+C10 energy,intensity
+C11 ghg,intensity
+C12 waste,intensity
+C13 biodiversity,impacts
+D1 occupational,health,safety employee,health,safety,expenditure,labour,right,secure,healthcare,insurance,accident,human,capital,incident,occupational,injury,safety,policy,healthy,safe,productive
+D2 employees,contract,type,gender gender,equality,woman,managerial
+D3 employee,training human,capital,participation,education,investiment,expenditure
+D4 unfair,illegal,labour,practices,human,rights,considerations
+D5 diversity,equal,discrimination,governance,employees wage,benefit,type,gender,disability,workforce
+D6 worker,rights,collective,agreements collective,agreement,fair,ratio
+D7 remuneration
+D8 supplier,social,assessment
+D9 local,community
+D10 supplier,consumer,engagement,sustainability
